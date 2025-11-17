@@ -67,9 +67,8 @@ O projeto inclui criação de tabelas, inserção de dados, validações, relaci
 ## 🛠 **Tecnologias Utilizadas**
 
 * 🐘 Oracle SQL Developer
-* 🗄 Oracle Database (19c / 21c)
-* 💻 SQL ANSI com extensões Oracle
-
+* 🗄 Oracle Database
+  
 ---
 
 ## 👥 **Grupo**
