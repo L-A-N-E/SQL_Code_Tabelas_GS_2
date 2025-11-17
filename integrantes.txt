@@ -1,0 +1,6 @@
+Integrantes: 
+
+- Alice Santos Bulhões: RM554499
+- Eduardo Oliveira Cardoso Madid: RM556349
+
+Link Repositório do github: https://github.com/L-A-N-E/SQL_Code_Tabelas_GS_2
